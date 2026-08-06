@@ -1,38 +1,41 @@
-import { SystemStatus } from "@/components/system-status";
-import { WorldSelector } from "@/components/world-selector";
+import AnimatedBackground from "@/components/home/AnimatedBackground";
+import Hero from "@/components/home/Hero";
+import FeatureStrip from "@/components/home/FeatureStrip";
+import WorldGrid from "@/components/home/WorldGrid";
+import RadeonSection from "@/components/home/RadeonSection";
+import Architecture from "@/components/home/Architecture";
+import Stats from "@/components/home/Stats";
+import Footer from "@/components/home/Footer";
 
 export default function Home() {
   return (
-    <main className="min-h-screen px-6 py-10 md:px-10">
-      <div className="mx-auto max-w-6xl">
-        <nav className="flex items-center justify-between">
-          <div className="text-sm font-semibold tracking-[0.28em]">
-            NEXUS<span className="text-cyan-200">AI</span>
-          </div>
-          <SystemStatus />
-        </nav>
+    <main className="relative min-h-screen overflow-x-hidden bg-[#050608] text-white">
+      <AnimatedBackground />
 
-        <section className="pb-16 pt-24 md:pb-20 md:pt-32">
-          <p className="mb-5 text-xs uppercase tracking-[0.35em] text-cyan-200/70">
-            Universal Knowledge Intelligence
-          </p>
-          <h1 className="max-w-5xl text-5xl font-medium leading-[1.04] tracking-[-0.04em] md:text-7xl">
-            Transform information into worlds you can explore.
-          </h1>
-          <p className="mt-7 max-w-2xl text-lg leading-8 text-white/55">
-            NexusAI connects entities, relationships, events, and sources,
-            turning fragmented data into interactive knowledge.
-          </p>
+      <div className="relative z-10">
+        <Hero />
+
+        <section className="mx-auto max-w-7xl px-6 py-12">
+          <FeatureStrip />
         </section>
 
-        <div className="mb-7 flex items-center gap-4">
-          <span className="text-xs uppercase tracking-[0.3em] text-white/35">
-            Choose a world
-          </span>
-          <div className="h-px flex-1 bg-white/10" />
-        </div>
+        <section className="mx-auto max-w-7xl px-6 py-20">
+          <WorldGrid />
+        </section>
 
-        <WorldSelector />
+        <section className="mx-auto max-w-7xl px-6 py-20">
+          <Architecture />
+        </section>
+
+        <section className="mx-auto max-w-7xl px-6 py-20">
+          <RadeonSection />
+        </section>
+
+        <section className="mx-auto max-w-7xl px-6 py-20">
+          <Stats />
+        </section>
+
+        <Footer />
       </div>
     </main>
   );

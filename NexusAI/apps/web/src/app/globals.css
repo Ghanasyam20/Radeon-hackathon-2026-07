@@ -28,3 +28,23 @@ body {
 ::selection {
   background: rgba(103, 232, 249, 0.25);
 }
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: #0A0A0A;
+}
+
+.glass {
+  background: rgba(255,255,255,.05);
+  backdrop-filter: blur(24px);
+  border: 1px solid rgba(255,255,255,.08);
+}
+
+.glow {
+  box-shadow:
+    0 0 40px rgba(124,92,255,.3),
+    0 0 80px rgba(0,212,255,.15);
+}
