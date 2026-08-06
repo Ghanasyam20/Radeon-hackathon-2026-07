@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/screenshots/banner.png" width="100%">
+  <img src="NexusAI/assets/screenshots/banner.png" width="100%">
 </p>
 <p align="center">
 
@@ -26,14 +26,6 @@
 NexusAI is a modular, locally deployable AI agent platform that transforms knowledge into interactive experiences. Instead of limiting AI to a chatbot, NexusAI introduces specialized AI worlds for memory exploration, semantic knowledge visualization, evidence-based investigation, and software repository intelligence.
 
 Built to run locally with AMD Radeon GPU acceleration, NexusAI prioritizes privacy, explainability, and interactive visualization.
-
----
-
-# Demo
-
-> *(Add your YouTube demo link here)*
-
----
 
 # Features
 
@@ -257,31 +249,32 @@ NexusAI/
 # Screenshots
 
 ## Home
-![Home](assets/screenshots/home.png)
+
+![Home](NexusAI/assets/screenshots/homepage.png)
 
 ---
 
 # WorldForge
 
-![WorldForge](assets/screenshots/worldforge.png)
+![WorldForge](NexusAI/assets/screenshots/worldforge.png)
 
 ---
 
 # MemoryWeaver
 
-![MemoryWeaver](assets/screenshots/memoryweaver.png)
+![MemoryWeaver](NexusAI/assets/screenshots/memoryweaver.png)
 
 ---
 
 # Detective
 
-![Detective](assets/screenshots/detective.png)
+![Detective](NexusAI/assets/screenshots/detective.png)
 
 ---
 
 # CodeVerse
 
-![CodeVerse](assets/screenshots/codeverse.png)
+![CodeVerse](NexusAI/assets/screenshots/codeverse.png)
 
 ---
 
