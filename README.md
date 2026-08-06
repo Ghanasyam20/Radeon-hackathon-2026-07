@@ -2,24 +2,12 @@
   <img src="NexusAI/assets/screenshots/banner.png" width="100%">
 </p>
 <p align="center">
-
-![Python](https://img.shields.io/badge/Python-3.12-blue)
-
-![FastAPI](https://img.shields.io/badge/FastAPI-Backend-green)
-
-![Next.js](https://img.shields.io/badge/Next.js-15-black)
-
-![React](https://img.shields.io/badge/React-19-61DAFB)
-
-![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)
-
-![AMD Radeon](https://img.shields.io/badge/AMD-Radeon-red)
-
-![ROCm](https://img.shields.io/badge/ROCm-Supported-red)
-
+Python • FastAPI • Next.js • React • TypeScript • AMD ROCm
 </p>
-# NexusAI
-### Private Local AI Agent Platform for AMD Radeon GPUs
+
+# Nexus AI
+
+## Private Local AI Agent Platform for AMD Radeon GPUs
 
 > **Track 2 Submission - AMD Radeon AI Hackathon 2026**
 
