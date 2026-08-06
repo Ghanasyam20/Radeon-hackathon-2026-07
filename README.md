@@ -7,16 +7,13 @@ Python • FastAPI • Next.js • React • TypeScript • AMD ROCm
 
 # Nexus AI
 
-## 📌 Submission Resources
+# 📌 Submission Resources
 
-🎥 **Demo Video**  
-➡️ [Watch Demo](https://drive.google.com/file/d/10mTQsKqZbIKxurt56ckmtMS89U2y1wwH/view?usp=sharing)
-
-🖼️ **Project Poster**  
-➡️ [View Poster](https://drive.google.com/file/d/1xSKUgffNEXgdRWHc9KWWAelajJwDEsRY/view?usp=sharing)
-
-📄 **Project Specification Document**  
-➡️ [View PSD](https://drive.google.com/file/d/1_Gz2Yup2dwMcEZvjqcJCT4Dl2vW0U_QL/view?usp=sharing)
+| Resource                          | Link                                                                                              |
+| --------------------------------- | ------------------------------------------------------------------------------------------------- |
+| 🎥 Demo Video                     | [Watch Demo](https://drive.google.com/file/d/10mTQsKqZbIKxurt56ckmtMS89U2y1wwH/view?usp=sharing)  |
+| 📜 Project Poster                 | [View Poster](https://drive.google.com/file/d/1xSKUgffNEXgdRWHc9KWWAelajJwDEsRY/view?usp=sharing) |
+| 📑 Project Specification Document | [View PSD](https://drive.google.com/file/d/1_Gz2Yup2dwMcEZvjqcJCT4Dl2vW0U_QL/view?usp=sharing)    |
 
 ## Private Local AI Agent Platform for AMD Radeon GPUs
 
