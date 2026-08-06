@@ -13,6 +13,8 @@ Python • FastAPI • Next.js • React • TypeScript • AMD ROCm
 | ------------- | ---------------------------------------------------------------------------------- |
 | 🎥 Demo Video | https://drive.google.com/file/d/10mTQsKqZblKxurt56ckmtMS89U2y1wwH/view?usp=sharing |
 
+| 📄 Poster | https://drive.google.com/file/d/1xSKUgffNEXgdRWHc9KWWAeIajJwDEsRY/view?usp=sharing |
+
 ## Private Local AI Agent Platform for AMD Radeon GPUs
 
 > **Track 2 Submission - AMD Radeon AI Hackathon 2026**
